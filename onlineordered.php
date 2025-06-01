@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Real Time Data Display</title>
+    <title>Real Time Data Display By Cherif</title>
   </head>
   <body onload = "table();">
     <script type="text/javascript">
